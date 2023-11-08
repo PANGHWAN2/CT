@@ -1,1 +1,1 @@
-g++ -std=c++14 -Wall 2979.cpp -o test.out
+g++ -std=c++14 -Wall 2559.cpp -o test.out
