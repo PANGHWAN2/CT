@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int n, k, temp, psum[10000], ret = -1000000;
+int n, k, temp, psum[100000], ret = -1000000;
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);cout.tie(NULL);
